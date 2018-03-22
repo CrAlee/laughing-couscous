@@ -4,6 +4,7 @@ Todos los cambios notables a este proyecto serán documentados en este archivo.
 ##[Unrealeased]
 
 ##[1.0.0] - 2018-03-15
+
 ###Added
 - Nueva plantilla añadida.
 - Añadido menú en cabecera.
@@ -13,6 +14,7 @@ Todos los cambios notables a este proyecto serán documentados en este archivo.
 
 
 ##[1.1.0] - 2018-03-20
+
 ##Added
 - Nuevo logo de página añadido.
 - Añadidos hipervinculos de redes sociales en pie de página.
