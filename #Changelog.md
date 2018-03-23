@@ -36,3 +36,4 @@ Todos los cambios notables a este proyecto serán documentados en este archivo.
 - Hipervinculo de Twitter por icono redondo en pie de página.
 - Hipervinculo de Youtube por icono redondo en pie de página.
 - Hipervinculo de Instagram por icono redondo en pie de página.
+- Hipervinculos de secciones en pie de página por dirección de localización.
