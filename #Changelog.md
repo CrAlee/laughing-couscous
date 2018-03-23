@@ -20,3 +20,11 @@ Todos los cambios notables a este proyecto serán documentados en este archivo.
 - Añadidos hipervinculos de redes sociales en pie de página.
 - Añadido logo SEP en pie de página.
 - Añadidos hipervinculos de secciónes en pie de página.
+
+
+##[1.2.0] - 2018-03-21
+
+##Changed 
+- Logo del ITM por logo creado.
+- Botón "Ejemplo" por botón "Changelog" en menú de cabecera.
+- Color de fondo Azul por color Oro.
