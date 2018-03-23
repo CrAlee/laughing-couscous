@@ -28,3 +28,11 @@ Todos los cambios notables a este proyecto serán documentados en este archivo.
 - Logo del ITM por logo creado.
 - Botón "Ejemplo" por botón "Changelog" en menú de cabecera.
 - Color de fondo Azul por color Oro.
+
+##[1.3.0] - 2018-03-23
+
+##Changed
+- Hipervinculo de Facebook por icono redondo en pie de página.
+- Hipervinculo de Twitter por icono redondo en pie de página.
+- Hipervinculo de Youtube por icono redondo en pie de página.
+- Hipervinculo de Instagram por icono redondo en pie de página.
